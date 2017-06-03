@@ -1,2 +1,6 @@
-# hello-world
-print "hello word" in C languag.
+#include <stdio.h>
+
+void main()
+{
+  print("hello world");
+}
